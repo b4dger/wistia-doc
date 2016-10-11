@@ -21,7 +21,7 @@ Content
 Update markdown files in `_posts` directory. 
 Based on markdown syntax by [John Gruber](http://daringfireball.net/projects/markdown/).
 
-To add a new post, use `rake np title=FOO` - this will create post file in directory w date and title slug w Yaml
+To add a new post, use `rake np title=FOO` - this will create post file in directory w/ date and title slug w/ Yaml
 
 ### Images
 Images get uploaded to the Bakery - currently live in Project in home acct.
